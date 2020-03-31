@@ -43,7 +43,7 @@ test
 │           ├── gmock-matchers.h
 │           └── gmock.h
 └── OWN
-请注意:已经自动，帮你初始化Tree!
+请注意:tree-pro已经自动，帮你初始化Tree^_^
 
 ```
 
